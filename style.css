@@ -1,0 +1,52 @@
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+h1 spam{
+  font-weight: bold;
+}
+
+#balls{
+  width: 598px;
+  margin: 0px auto 72px;
+}
+
+#balls img{
+  margin-bottom: 62px;
+}
+p,a,body {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+spam, a {
+  color: orange;
+
+}
+
+p, #foooter{
+  color: #7d7986;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+#footer a + a{
+ margin-left: 28px;
+}
+
+#line{
+  width: 568px;
+  height: 0px;
+  border: 1px rgb(168, 255, 204) solid;
+  margin: 0 auto 8px;
+
+}
+
